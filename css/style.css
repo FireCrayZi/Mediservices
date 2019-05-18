@@ -1,0 +1,30 @@
+.sign{
+  margin: 25px;
+  height:  500px;
+  display: block;
+}
+.fieldset
+{
+  border: 1px black solid;
+  width: 350px;
+  border-radius: 20px;
+  text-align: center;
+  background-color:#77DC6A ;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-top: 10px;
+  -webkit-box-shadow: 10px 10px 39px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 39px -1px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 39px -1px rgba(0,0,0,0.75);
+}
+.pret
+{
+  margin-top: 20px;
+}
+.gestpret{
+  position: relative;
+  left: 32%;
+}
+.field{
+  margin-bottom: 35px;
+}
